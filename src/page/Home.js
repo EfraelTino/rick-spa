@@ -6,8 +6,7 @@ const Home = async () => {
     const characters = await getData();
     const view = `
     
-    <img src="../img/Vector.svg/" alt="curvas" width="100%">
-    <img src="../img/Img.svg/" alt="rick-morty" width="100%">
+
     <h1 class="title">Series characters</h1>
     <div class="Characters"> 
     

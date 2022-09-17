@@ -13,7 +13,7 @@ body {
     justify-content: center;
     text-align: center;
     font-size: 5rem;
-    color: white;
+    color: #EDC63A;
 }
 
 header {
@@ -34,9 +34,13 @@ header {
 }
 
 .Header-nav a {
+    color: #2C797C;
     font-weight: bold;
 }
 
+.Header-logo h1 a{
+    color: #2C797C;
+}
 .Main {
     grid-template-columns: minmax(auto, 976px);
     display: grid;
@@ -64,8 +68,8 @@ header {
 
 .Characters-card {
     text-decoration: none;
-    box-shadow: -3px 0px 10px 3px rgba(255, 255, 255, 0.6);
-    -webkit-box-shadow: -3px 0px 10px 3px rgba(255, 255, 255, 0.6);
+    box-shadow: -3px 0px 10px 3px rgba(39, 38, 38, 0.6);
+    -webkit-box-shadow: -3px 0px 10px 3px rgba(43, 42, 42, 0.6);
     -moz-box-shadow: -3px 0px 10px 3px rgba(255, 255, 255, 0.6);
     border-radius: 5px;
     background: rgb(33, 33, 33);
