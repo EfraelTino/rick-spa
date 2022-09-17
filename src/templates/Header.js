@@ -4,7 +4,7 @@ const Header = () => {
         <div class="Header-logo">
           <h1>
             <a href="#">
-            <img src="../../src/img/Logo.svg" alt="">
+            <img src="../img/Logo.svg/" alt="logo">
             </a>
           </h1>
         </div>
